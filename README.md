@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Benedicto
 - 👀 I’m interested in ... además del desarrollo web me interesa conocer otros campos como pen testing, python, seguridad ...
-- 🌱 Actualmente aprendiendo desarrollo web en CIFPD La Laboral
+- 🌱 Actualmente aprendiendo desarrollo web en CIFPD La Laboral y de prácticas en Hiberus
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ddbngr@gmail.com
 
