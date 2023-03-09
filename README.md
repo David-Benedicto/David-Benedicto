@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @David-Benedicto
 - 👀 I’m interested in ... además del desarrollo web me interesa conocer otros campos como pen testing, python, seguridad ...
-- 🌱 Actualmente aprendiendo desarrollo web en CIFPD La Laboral y de prácticas en Hiberus
+- 🌱 Actualmente trabajando en Hiberus como desarrollador Java Liferay
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... ddbngr@gmail.com
+- 📫 How to reach me ... dbenedicto@hiberus.com
 
 <!---
 David-Benedicto/David-Benedicto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
